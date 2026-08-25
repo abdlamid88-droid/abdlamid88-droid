@@ -25,7 +25,7 @@ I build scalable backend systems, automated data pipelines, and computer vision 
 ### 📬 Connect with Me:
 - **Email:** abdlamid88@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/abdelhamid-bali-1356a515b/?
-- **Payment Flexibility:** Open to direct contracts (USDT / Crypto-friendly)## Hi there 👋
+- **Payment Flexibility:** Open to direct contracts (USDT / Crypto-friendly)
 
 <!--
 **abdlamid88-droid/abdlamid88-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
