@@ -1,6 +1,6 @@
 # Abdelhamid Bali — AI engineer (LLM · RAG · agents · evaluation)
 
-I build LLM products for Arabic- and French-speaking users, and I test them like production software:
+I build LLM products for Arabic- and English-speaking users, and I test them like production software:
 retrieval that cites its source, agents that never invent a price, and evaluations that run in CI.
 
 Freelance, remote, based in Algeria.
@@ -29,4 +29,4 @@ Python · FastAPI · PostgreSQL / pgvector · Gemini and OpenAI-compatible model
 
 ---
 
-مهندس ذكاء اصطناعي من الجزائر: أبني تطبيقات LLM وRAG ووكلاء محادثة للعربية والفرنسية، وأختبر جودتها بالاختبارات الآلية والتقييم المستمر.
+مهندس ذكاء اصطناعي من الجزائر: أبني تطبيقات LLM وRAG ووكلاء محادثة للعربية والإنجليزية، وأختبر جودتها بالاختبارات الآلية والتقييم المستمر.
